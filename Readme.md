@@ -10,11 +10,8 @@
 
 
 ## About Me
-<div id="text">Hi My name is Dawn Saju. I'm a Python Programmer & Frontend Developer. I have a 3 years of experience with Python, HTML, CSS & JS.
-I love to help others and be a part in their success.</div>
-#text {
-  font-size: 50%;
-}
+Hi My name is Dawn Saju. I'm a Python Programmer & Frontend Developer. I have a 3 years of experience with Python, HTML, CSS & JS.
+I love to help others and be a part in their success.
 - 👨‍💻 Python 
 - 👨‍💻 HTML
 - 👨‍💻 CSS
