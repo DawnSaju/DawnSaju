@@ -18,7 +18,7 @@ Hi My name is Dawn. I have a 3 years of experience with Python, HTML, CSS & JS.I
 
 
 ## Github Status
-<img src="https://raw.githubusercontent.com/dawntom2006/dawntom2006/b7885f18ada5b9a92551d3a99797198210465f8b/banner.svg"/>|<img src="https://raw.githubusercontent.com/dawntom2006/dawntom2006/54628cb395ba5fe1cbafbdb7266e703383c162a4/statistics.svg"/>|
+<img src="https://raw.githubusercontent.com/dawntom2006/dawntom2006/54628cb395ba5fe1cbafbdb7266e703383c162a4/statistics.svg"/>|<img src="https://raw.githubusercontent.com/dawntom2006/dawntom2006/b7885f18ada5b9a92551d3a99797198210465f8b/banner.svg"/>|
 |---|---|
 
 
