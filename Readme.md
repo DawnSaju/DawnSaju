@@ -1,41 +1,22 @@
-<h1 align="center">Hi 👋, I'm Dawn Saju</h1>
-<h3 align="center">A passionate Programmer from India</h3>
+### Hi there 👋 I'm Dawn Saju
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dawntom2006" alt="dawntom2006" /></a> </p>
+[![Instagram Badge](https://img.shields.io/badge/-dawnpro7_-blueviolet?style=plastic-square&logo=instagram&logoColor=white&link=https://instagram.com/dawnpro7_/)](https://instagram.com/dawnpro7_)
+[![Youtube Badge](https://img.shields.io/badge/-DAWN%20SAJU%20%E2%99%AA-red?style=plastic-square&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCunMpGgW9KorVSEB90QF7Dg)](https://www.youtube.com/channel/UCunMpGgW9KorVSEB90QF7Dg)
+[![Twitter Badge](https://img.shields.io/badge/-dawnpro7-blue?style=plastic-square&logo=twitter&logoColor=white&link=https://twitter.com/dawnpro7)](https://twitter.com/dawnpro7)
+<a href="https://dawnsajus.live"><img src="https://img.shields.io/badge/MyPortfolio-blueviolet.svg"/></a>
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=dawntom2006)
 
-- 👨‍💻 All of my projects are available at [https://dawnsajus.live](https://dawnsajus.live)
 
-- 📫 How to reach me **dawnsaju2006@gmail.com**
+## About Me
+Hi My name is Dawn. I have a 3 years of experience with Python, HTML, CSS & JS.I love to help others and be a part in their success.
+- 👨‍💻 Python 
+- 👨‍💻 HTML
+- 👨‍💻 CSS
+- 👨‍💻 JS
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/dawntom2006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="dawntom2006" height="30" width="40" /></a>
-<a href="https://dev.to/dawntom2006" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="dawntom2006" height="30" width="40" /></a>
-<a href="https://twitter.com/dawnpro7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dawnpro7" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/dawntom2006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dawntom2006" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/dawntom2006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="dawntom2006" height="30" width="40" /></a>
-<a href="https://codesandbox.com/dawntom2006" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="dawntom2006" height="30" width="40" /></a>
-<a href="https://kaggle.com/dawntom2006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="dawntom2006" height="30" width="40" /></a>
-<a href="https://fb.com/dawntom2006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dawntom2006" height="30" width="40" /></a>
-<a href="https://instagram.com/dawnpro7_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dawnpro7_" height="30" width="40" /></a>
-<a href="https://dribbble.com/dawntom2006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="dawntom2006" height="30" width="40" /></a>
-<a href="https://www.behance.net/dawntom2006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="dawntom2006" height="30" width="40" /></a>
-<a href="https://medium.com/dawntom2006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="dawntom2006" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/dawn saju" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dawn saju" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/dawntom2006" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="dawntom2006" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/dawntom2006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dawntom2006" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/dawntom2006" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="dawntom2006" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/dawntom2006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dawntom2006" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/dawntom2006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="dawntom2006" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/dawntom2006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="dawntom2006" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/dawntom2006" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/topcoder.svg" alt="dawntom2006" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+## Github Status
+<img src="https://github-readme-stats.vercel.app/api?username=dawntom2006&&show_icons=true&count_private=true&theme=radical"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=dawntom2006&theme=radical"/>|
+|---|---|
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dawntom2006&show_icons=true&locale=en&layout=compact" alt="dawntom2006" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dawntom2006&show_icons=true&locale=en" alt="dawntom2006" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dawntom2006&" alt="dawntom2006" /></p>
