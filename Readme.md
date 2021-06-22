@@ -1,4 +1,4 @@
-<a href="https://dawnsajus.live"><img align="center" src="https://raw.githubusercontent.com/dawntom2006/dawntom2006/main/Github%20Banner.png"/></a>
+<a href="https://dawnsajus.live"><img align="center" src="https://raw.githubusercontent.com/dawntom2006/dawntom2006/main/GithubBannerNew.png"/></a>
 
 ### Hi there 👋 I'm Dawn Saju
 
