@@ -1,4 +1,4 @@
-<a href=""><img align="center" src="https://raw.githubusercontent.com/dawntom2006/DawnSaju/main/Github%20Banner%20New2.png"/></a>
+<a href=""><img align="center" src="https://raw.githubusercontent.com/DawnSaju/DawnSaju/main/Github%20Banner%20New2.png"/></a>
 
 Hi 👋 My name is Dawn Saju
 ==========================
