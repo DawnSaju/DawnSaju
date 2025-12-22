@@ -6,11 +6,10 @@ Hello world, I'm Dawn Saju 👋
 Full Stack Developer
 ----------------------------------------
 
-I have more than 3y+ experience with Python and Web Development. I would love to be a part in their success. Happy to work with you 😀
+Full Stack Developer, founder of trigen, and an aspiring student passionate about coding and technology. Currently studying Computer Science, I am eager to deepen my knowledge in programming and software development. As a hardworking individual, I constantly seek ways to enhance my skills. An active member of the programming community, I participate in hackathons and coding competitions. I’m excited to leverage my skills to create innovative solutions and make a positive impact in the world.
 
 * 🌍  I'm based in Dubai
 * ✉️  You can contact me at [dawnsajubusiness@gmail.com](mailto:dawnsajubusiness@gmail.com)
-* 🚀  I'm currently working on a Web App. [(mailto:developer@sustainai.tech)]
 * 🧠  I'm learning React Native and SwiftUI
 * 🤝  I'm open to collaborating on Interesting projects!
 
