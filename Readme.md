@@ -1,9 +1,9 @@
 <a href=""><img align="center" src="https://raw.githubusercontent.com/DawnSaju/DawnSaju/main/Banner.png"/></a>
 
-Hi 👋 My name is Dawn Saju
+Hello world, I'm Dawn Saju 👋
 ==========================
 
-Python Programmer and Frontend Developer
+Full Stack Developer
 ----------------------------------------
 
 I have more than 3y+ experience with Python and Web Development. I would love to be a part in their success. Happy to work with you 😀
@@ -16,7 +16,7 @@ I have more than 3y+ experience with Python and Web Development. I would love to
 
 <a href="https://dawn-portfolio.netlify.app" target="_blank" rel="noreferrer">Portfolio Website of Dawn Saju</a>
 
-<a href="https://www.github.com/dawnpro7" target="_blank" rel="noreferrer"><img
+<a href="https://www.github.com/dawnsaju" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/DawnSaju?logo=github&style=for-the-badge&color=0891b2&labelColor=0f172a" /></a>
 
 <!-- ### Skills
