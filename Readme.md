@@ -14,12 +14,6 @@ Founder of trigen, and an aspiring student passionate about coding and technolog
 
 ![GitHub Timeline](https://www.githubtimeline.com/api/embed/svg/gt_JZnZb7orelbv1jhU?view=active&theme=retro)
 
-<!-- Optional parameters:
-  - view: range | first | active (default: range)
-  - theme: light | dark | skyline | hacker | edgerunner | wicked | cherry-blossom | deep-waters | forest | neon-purple | grayscale | retro (default: light) 
-  - width: 400-1200 (default: 800)
--->
-
 <!-- ### Skills
 
 <p align="left">
