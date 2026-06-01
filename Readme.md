@@ -247,7 +247,7 @@ flowchart LR
 
 <p align="center">
   <img src="https://www.githubtimeline.com/api/embed/svg/gt_JZnZb7orelbv1jhU?view=active&theme=light" width="100%" alt="GitHub timeline" />
-</p>
+</p> 
 
 ---
 
