@@ -3,11 +3,10 @@
 Hello world, I'm Dawn Saju 👋
 ==========================
 
-Full Stack Developer
+AI Developer| 5x Hackathon Winner| Samsung AI Scholar| Apple iOS Design
 ----------------------------------------
 
-Founder of trigen, and an aspiring student passionate about coding and technology. Currently studying Computer Science, I am eager to deepen my knowledge in programming and software development. As a hardworking individual, I constantly seek ways to enhance my skills. An active member of the programming community, I participate in hackathons and coding competitions. I’m excited to leverage my skills to create innovative solutions and make a positive impact in the world.
-
+AI Engineer, founder of trigen, and an aspiring student passionate about coding and technology. Currently studying Computer Science, I am eager to deepen my knowledge in programming and software development. As a hardworking individual, I constantly seek ways to enhance my skills. An active member of the programming community, I participate in hackathons and coding competitions. I'm excited to leverage my skills to create innovative solutions and make a positive impact in the world.
 ---
 
 ### Journey
