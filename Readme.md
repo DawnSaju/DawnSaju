@@ -1,6 +1,18 @@
-<a href="https://dawnsaju.dev">
-  <img src="https://raw.githubusercontent.com/DawnSaju/DawnSaju/main/dawnsaju.dev.png" alt="Dawn Saju - AI Developer" width="100%" />
-</a>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="/5s-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="/5s-light.svg"
+  />
+  <img
+    src="/5s-light.svg"
+    width="100%"
+    alt="dawnsaju.dev"
+  />
+</picture>
 
 # Dawn Saju
 
